@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-archivo en main
-=======
-hola
->>>>>>> segunda
